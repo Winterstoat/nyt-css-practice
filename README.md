@@ -1,0 +1,1 @@
+This is an assignment for The Odin Project to recreate the styling of a webpage from the New York Times. The article can be found here www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0
