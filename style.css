@@ -62,30 +62,42 @@ table {
 
 
 .container {
-  width: 900px;
+  width: 1500px;
+  display: block;
+  text-align: center;
 }
 
 header {
-  position: relative;
-  left: 225px;
+
 }
 
 .main_body {
-  text-align: center;
-  width: 500px;
-  display: block;
-  margin: auto;
+  width: 560px;
   position: relative;
-  left: 225px;
+  left: 500px;
 }
 
 h1 {
   text-align: center;
-  position: relative;
-  left: 225px;
 }
 
-#main_pic {
+.picture {
   width: 1200px;
   height: 675px;
+  position: relative;
+  left: 0px;
+  padding: 45px;
+}
+
+p {
+  font: 18px Times;
+  line-height: 28.8px;
+}
+
+/*video {
+  width: 1200px;
+  height: 675px;
+  position: relative;
+  left: 250px;
+  padding: 45px;
 }
